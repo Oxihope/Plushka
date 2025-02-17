@@ -1,0 +1,17 @@
+#include <iostream>
+#include <vector>
+#include "Sound_Effect.h"
+#include "Level.h"
+#include "Worker.h"
+#include "Developer.h"
+#include "Interface_Developer.h"
+#include "Level_Developer.h"
+#include "Designer.h"
+#include "Sound_Effect_Designer.h"
+#include "Level_Designer.h"
+#include "Tester.h"
+#include "Level_Tester.h"
+#include "Interface_Tester.h"
+#include "Game.h"
+#include "Game_Development.h"
+#include "Sponcor.h"
